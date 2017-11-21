@@ -24,6 +24,7 @@ for i in range(num):
 
 """
 
+
 import re
 n = int(input())
 list3 = []
