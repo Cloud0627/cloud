@@ -1,3 +1,4 @@
+#未回答
 num = int(input())
 strike = 0
 ball = 0
